@@ -22,10 +22,8 @@
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atulpatill &theme=radical)
 
-
-
-  <img align="left" alt="" src="https://github-readme-stats.codestackr.vercel.app/api?username=atulpatill&show_icons=true&hide_border=true" />
 
 
 [twitter]: https://twitter.com/karmyogi_atul
