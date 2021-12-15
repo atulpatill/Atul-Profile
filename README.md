@@ -3,7 +3,7 @@
 # 👋Hello World! I'm Atul !!
 
 - 🔭 I currently Know JavaScript,React,Redux,Firebase!
-- 🌱 I’m currently learning TypeScript & MERN, Also curious about WEB 3.0!😁 
+- 🌱 I’m currently learning TypeScript & MERN, Also curious about WEB 3.0!
 - 👯 I’m looking to collaborate with other Passionate Developer.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to read great minds, Currently Hooked on Naval Ravikant's Tweets.🙇‍♂️
