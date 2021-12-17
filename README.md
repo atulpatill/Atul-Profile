@@ -1,4 +1,3 @@
-<p align="left"> <a href="https://twitter.com/karmyogi_atul" target="blank"><img src="https://img.shields.io/twitter/follow/_atulpatil?logo=twitter&style=for-the-badge" alt="_atulpatill" /></a> </p>
 
 # 👋Hello World! I'm Atul !!
 
