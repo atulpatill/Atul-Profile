@@ -4,7 +4,8 @@
 
 - 🔭 I currently Know JavaScript,React,Redux,Firebase!
 - 🌱 I’m currently learning TypeScript & MERN, Also curious about WEB 3.0!
-- 👯 I’m looking to collaborate with other Passionate Developer.
+- 👯 I’m looking forward to collaborate with other Passionate Developers.
+- 📄 Want to hire me? Check out my [Portfolio](https://atul-patil.netlify.app/)
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to read great minds, Currently Hooked on Naval Ravikant's Tweets.🙇‍♂️
 
