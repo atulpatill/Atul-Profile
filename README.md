@@ -2,7 +2,7 @@
 # 👋Hello World! I'm Atul !!
 
 - 🔭 I currently Know JavaScript,React,Redux,Firebase!
-- 🌱 I’m currently learning TypeScript & MERN, Also curious about WEB 3.0!
+- 🌱 I’m currently learning TypeScript & MERN, Also curious about React Native!
 - 👯 I’m looking forward to collaborate with other Passionate Developers.
 - 📄 Want to hire me? Check out my [Portfolio](https://atul-patil.netlify.app/) & [Resume](https://atul-patil.netlify.app/AtulResume.pdf)
 - 🥅 2022 Goals: Contribute more to Open Source projects.
