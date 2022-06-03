@@ -1,5 +1,5 @@
 
-## Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Atul](https://t.co/IjpnCPv9IX) !!
+## Hello World!!!... I'm [Atul](https://t.co/IjpnCPv9IX) !!
 
 - 🔭 I currently Know JavaScript,React,Redux,Firebase!
 - 🌱 I’m currently learning TypeScript & MERN, Also curious about React Native!
